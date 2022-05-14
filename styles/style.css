@@ -7,3 +7,39 @@
     background-color: aqua;
     height: 50vh;
 }
+.Alight{
+    color: rgba(0, 0, 0, 0.1);
+    font-size: 100px;
+}
+.progress{
+    height: 3px;
+    
+}
+.progress1{
+    margin-top: 20px !important;
+}
+.width85{
+    width: 80%;
+}
+.width90{
+    width: 90%;
+ }
+.pesrws{
+    margin-left: 65%;
+    
+}
+.pesrws2{
+    margin-left: 60%;
+    
+}
+.pesrws3{
+    margin-left: 35%;
+    
+}
+.pesrws4{
+    margin-left: 75%;
+    
+}
+.progress1 h6{
+    color: rgb(46, 40, 40);
+} 
